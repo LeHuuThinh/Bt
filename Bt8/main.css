@@ -1,0 +1,27 @@
+html{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.td2{  
+    text-align: center;
+    border-bottom: 2px solid rgb(129, 145, 218);
+}
+.bt2{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #faf2e4;
+}
+.hinhtron{
+    margin-top: 100px;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background-image: url(https://images.ctfassets.net/ub3bwfd53mwy/5zi8myLobtihb1cWl3tj8L/45a40e66765f26beddf7eeee29f74723/6_Image.jpg?w=750);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 2px #333 solid;
+}
+h2{
+    color: red;
+}
