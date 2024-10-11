@@ -1,0 +1,37 @@
+html{
+    font-family: "Poppins", sans-serif;
+}
+
+h1,h2 {
+    margin-left: 50px;
+    color: rgb(216, 101, 101);
+    font-size: 30px;
+}
+
+h3{
+    font-size: 20px;
+    color: rgb(9, 9, 128);
+}
+
+img{
+    margin-left: 170px;
+}
+
+p{
+    font-size: 16px;
+}
+
+.form-resume{
+    display: flex;
+}
+
+.resume{
+    width: 30%;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+

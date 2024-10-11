@@ -1,0 +1,26 @@
+html{
+    font-size: 20px;
+}
+body{
+   margin: 0;
+   padding: 0;
+}
+.DanhSach{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f6442e;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.Item{
+    padding: 20px;
+    color: #fff;
+
+}
+.breadcrumb{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}

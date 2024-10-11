@@ -1,0 +1,19 @@
+#info{
+    color: green;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+dt strong{
+    color: red;
+}
+
+.price{
+    font-style: italic;
+    color: grey;
+}
+
+.warning{
+    font-size: small;
+    color: red;
+}
